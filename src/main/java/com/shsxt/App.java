@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("hello dev_1.0");
-        System.out.println("C2客户端内容修改");
+        System.out.println("C1 客户端内容修改");
     }
 }
